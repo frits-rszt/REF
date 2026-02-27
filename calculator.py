@@ -14,3 +14,6 @@ class Calculator:
     
     def pow(a,b):
         return a**b
+
+    def print_calculator():
+        print("hello")
